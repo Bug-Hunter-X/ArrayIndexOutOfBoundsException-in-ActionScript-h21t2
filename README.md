@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: an ArrayIndexOutOfBoundsException. The bug arises from attempting to access an array element using an index equal to the array's length, which is one element beyond the last valid index. The solution shows how to correct this by using myArray.length - 1 to access the last element.
